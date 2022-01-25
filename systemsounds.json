@@ -1,8 +1,3 @@
-![SystemPreferences](https://user-images.githubusercontent.com/43663476/151023347-1bc101bf-844d-4de5-a164-9300090f2efc.png)
-
-Sounds found in and extracted from `System/Library/Audio/UISounds` in multiple formats. I only discovered these because of [this Siri Shortcut](https://routinehub.co/shortcut/3224/).
-
-```json
 {
 "Phone 0":"file:///System/Library/Audio/UISounds/nano/dtmf-0.caf",
 "Phone 1":"file:///System/Library/Audio/UISounds/nano/dtmf-1.caf",
@@ -150,4 +145,3 @@ Sounds found in and extracted from `System/Library/Audio/UISounds` in multiple f
 "Bedtime":"file:///System/Library/Audio/UISounds/go_to_sleep_alert.caf",
 "Nightstand":"file:///System/Library/Audio/UISounds/nano/Alarm_Nightstand_Haptic.caf"
 }
-```
